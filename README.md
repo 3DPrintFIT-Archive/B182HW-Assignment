@@ -27,7 +27,7 @@ Testy vyžadují optickou kontrolu.
 Váš model implementujte jako modul v OpenSCADU s tímto rozhraním:
 
 ```scad
-module x-ends(
+module x_ends(
         vertical_rod_distance,
         vertical_horizontal_smooth_offset,
         wall_thickness,
