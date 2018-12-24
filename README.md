@@ -94,7 +94,8 @@ Věnujte proto umístění modelu zvýšenou pozornost.
 ## Výkresy
 
 Byť máte za úkol modelovat jen dvě součástky, výkresy jsou tři. To je z důvodu, že obě dvě součástky sdílejí většinu rozměrů.
-Na výkresu [báze](drawings/base_drawing.pdf) najdete právě tyto sdílené rozměry.
+Na výkresu báze ([svg](drawings/base_drawing.svg), [png](drawings/base_drawing.svg.png)) najdete právě tyto sdílené rozměry.
+Dále máte k dispozici obrázky projekcí této základní součástky ([svg](drawings/base_projections.svg), [png](drawings/base_projections.svg.png)), případně jsou k dispozici také jen okótované výkresy bez projekcí  ([svg](drawings/base_dimensions.svg), [png](drawings/base_dimensions.svg.png)).
 
 ## Idler (část _idler_)
 Výkres [idleru](drawings/idler_drawing.pdf).
