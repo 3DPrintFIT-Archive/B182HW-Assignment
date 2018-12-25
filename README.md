@@ -87,9 +87,8 @@ výkresů.
 Pro automatické testy je naprosto zásadní,
 aby váš model byl umístěn na správném místě.
 **Modely umístěné špatně budou vyhodnoceny jako nesprávné.**
-Věnujte proto umístění modelu zvýšenou pozornost.
+Věnujte proto umístění modelu zvýšenou pozornost, požadovanou pozici najdete ve výkresech ([svg](drawings/position.svg), [png](drawings/position.svg.png)).
 
-**TBD**
 
 ## Výkresy
 
