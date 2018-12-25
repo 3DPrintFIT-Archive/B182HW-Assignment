@@ -114,7 +114,7 @@ Výkres [motoru](drawing/motor_drawing.pdf).
 
 ## Nefunkční požadavky
 
-  - Manipulace s `$f*` hodnotami je zakázána
+  - Manipulace s `$f*` hodnotami je povolena pouze pro konstrukci pravidelných šestiúhelníků (např. pro matičky)
   - Je zakázáno použít konstrukci `minkowski()` (ve 3D i ve 2D prosotoru)
   - Není doporučováno používat rekurzi, ani to k vyřešení úkolu není zapotřebí
   - Využití externích knihoven (včetně knihovny MCAD) je zakázáno
