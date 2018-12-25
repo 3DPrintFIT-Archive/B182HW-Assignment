@@ -123,5 +123,3 @@ Výkres [motoru](drawing/motor_drawing.pdf).
     - Opakování v kódu je špatně, vždy použijte moduly a cykly
     - Bulharské konstanty musí být doplněny o vysvětlující komentář
     - Dodržte logickou úroveň odsazení
-
-s
