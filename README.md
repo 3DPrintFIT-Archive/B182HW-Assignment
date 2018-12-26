@@ -110,7 +110,7 @@ Výkres [motoru](drawing/motor_drawing.pdf).
 
 
 ## Obě části
-**TBA**
+Výkresy obou částí dohromady jsou vidět na výkresech vyznačující jejich pozici v souřadném systému ([svg](drawings/position.svg), [png](drawings/position.svg.png)).
 
 ## Nefunkční požadavky
 
