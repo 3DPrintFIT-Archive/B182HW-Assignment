@@ -95,22 +95,31 @@ aby váš model byl umístěn na správném místě.
 **Modely umístěné špatně budou vyhodnoceny jako nesprávné.**
 Věnujte proto umístění modelu zvýšenou pozornost, požadovanou pozici najdete ve výkresech ([svg](drawings/position.svg), [png](drawings/position.svg.png)).
 
+![position](drawings/position.svg)
 
-## Výkresy
+
+# Výkresy
+
+## Báze
+![base](drawings/base_projections.svg)
 
 Byť máte za úkol modelovat jen dvě součástky, výkresy jsou tři. To je z důvodu, že obě dvě součástky sdílejí většinu rozměrů.
 Na výkresu báze ([svg](drawings/base_drawing.svg), [png](drawings/base_drawing.svg.png)) najdete právě tyto sdílené rozměry.
 Dále máte k dispozici obrázky projekcí této základní součástky ([svg](drawings/base_projections.svg), [png](drawings/base_projections.svg.png)), případně jsou k dispozici také jen okótované výkresy bez projekcí  ([svg](drawings/base_dimensions.svg), [png](drawings/base_dimensions.svg.png)).
 
 ## Idler (část _idler_)
-Výkres [idleru](drawings/idler_drawing.pdf).
+![idler](drawings/idler_projections.svg)
+
+Výkresy `idleru` najdete na [svg](drawings/idler_drawing.svg) a [png](drawings/idler_drawing.svg.png). Případně jsou zase dostupné pouze okótované výkresy ([svg](drawings/idler_dimensions.svg), [png](drawings/idler_dimension.svg.png)) a také pouze projekce ([svg](drawings/idler_projections.svg), [png](drawings/idler_projections.svg.png)).
 
 ## Motor (část _motor_)
-Výkres [motoru](drawing/motor_drawing.pdf).
+![motor](drawings/motor_projections.svg)
+
+Výkresy `motoru` najdete na [svg](drawings/motor_drawing.svg) a [png](drawings/motor_drawing.svg.png). Případně jsou zase dostupné pouze okótované výkresy ([svg](drawings/motor_dimensions.svg), [png](drawings/motor_dimension.svg.png)) a také pouze projekce ([svg](drawings/motor_projections.svg), [png](drawings/motor_projections.svg.png)).
 
 
 ## Obě části
-Výkresy obou částí dohromady jsou vidět na výkresech vyznačující jejich pozici v souřadném systému ([svg](drawings/position.svg), [png](drawings/position.svg.png)).
+Výkresy obou částí dohromady jsou vidět na výše zmíněných výkresech vyznačující jejich pozici v souřadném systému ([svg](drawings/position.svg), [png](drawings/position.svg.png)).
 
 ## Nefunkční požadavky
 
