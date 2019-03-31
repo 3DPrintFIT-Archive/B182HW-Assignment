@@ -4,27 +4,45 @@ Vaším úkolem bude namodelovat mírně zjednodušené koncové součástky na 
 
 ## Odevzdání a termíny
 
-**Toto je beta verze zadání.**
-To znamená, že dojde jen k opravě chyb nebo k dopřesnění nejasností.
-Případné opravy budou opatřeny erratou.
+:warning: Toto je alpha verze zadání domácího úkolu.
+To znamená, je momentálně jasné, že předmětem tohoto úkolu budou součástky
+popsané níže, jejich rozhraní a konkrétní vlastnosti se však ještě mohou měnit.
+Uvítáme, pokud se na případné nejasnosti zeptáte pomocí
+[issue] v tomto repozitáři.
 
-Založte repozitář: **TBD**
+Založte repozitář: **TBD** (bude doplněno s beta verzí)
 
-Deadline odevzdání je **TBD**.
+Deadline odevzdání je **TBD** (měsíc od vydání rc verze zadání)
+
 Vypracovaný úkol nahrajte do repozitáře vytvořeného na odkaze výše.
 Nikam jinam jej neposílejte, jako odevzdání se počítá to,
 co bude ve vašem repozitáři (ve výchozí větvi (většinou master))
 v momentu deadlinu.
 
 Pokud máte jakékoliv dotazy, či naleznete chyby, napište je prosím do
-[Issues](TBD) v tomto repozitáři.
+[issue] v tomto repozitáři.
+
+[issue]: https://github.com/3DprintFIT/B182HW-Assignmet/issues
 
 Po pushnutí commitu do vašeho repozitáře proběhne sada testů.
-Testy vyžadují optickou kontrolu.
+Testy vyžadují optickou kontrolu. Alpha verze zadání ještě neobsahuje testy.
+Automatické testy se vyhodnocující na základě přesné optické schody.
+Pozice modelu je proto zásadní.
+Každý test je buďto splněn nebo nesplněn, v případě pochyb si obrázky překryjte přes sebe.
+
+U každého testu uvidíte číselnou informaci o shodě pixelů. Nevěnujte ji zvláštní pozornost.
+Dá se vykládat asi takto:
+
+ * 1: vše v pořádku, v řešení postupujete stejně jako my
+ * 0.999999: vše v pořádku, v řešení postupujete stejně jako my, ale jeden pixel někde ujel
+ * 0.9998 a méně: nic neříkající informace (buďto je vše správně, ale postupujete trochu jinak a obrázek není úplně schodný, nebo máte v modelu chybu)
+
+Pozor, že i prázdný obrázek dává vysoké hodnoty shody.
+Není tedy možné předpokládat, že tato číslice snad udává podíl získaných bodů.
 
 ## Rozhraní
 
-Váš model implementujte jako modul v OpenSCADU s tímto rozhraním:
+Váš model implementujte jako modul v OpenSCADu s tímto rozhraním:
 
 ```scad
 module x_ends(
@@ -73,7 +91,7 @@ use <x-ends.scad>
 x-ends();
 ```
 
-Výchozí hodnoty argumentů musí zůstat zachovány dle tohoto rozhraní!
+Výchozí hodnoty argumentů musí **zůstat zachovány** dle tohoto rozhraní!
 Naše testy budou jednotlivé argumenty nastavovat,
 ale budou předpokládat stejné výchozí hodnoty!
 
@@ -124,7 +142,7 @@ Výkresy obou částí dohromady jsou vidět na výše zmíněných výkresech v
 ## Nefunkční požadavky
 
   - Manipulace s `$f*` hodnotami je povolena pouze pro konstrukci pravidelných šestiúhelníků (např. pro matičky)
-  - Je zakázáno použít konstrukci `minkowski()` (ve 3D i ve 2D prosotoru)
+  - Je zakázáno použít konstrukci `minkowski()` (ve 3D i ve 2D prostoru)
   - Není doporučováno používat rekurzi, ani to k vyřešení úkolu není zapotřebí
   - Využití externích knihoven (včetně knihovny MCAD) je zakázáno
   - Pokud je něco **zakázáno**, vede použití k tomu, že **neprojdou testy** a dostáváte **0 bodů**
