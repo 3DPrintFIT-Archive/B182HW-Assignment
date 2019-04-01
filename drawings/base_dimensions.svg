@@ -14,7 +14,7 @@
    viewBox="0 0 266.2684 230.29272"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="base_dimensions.svg"
    inkscape:export-filename="C:\Users\Marek\Documents\3DLab\B182HW\B182HW-Assignment\drawings\base_dimensions.svg.png"
    inkscape:export-xdpi="96"
@@ -125,15 +125,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="389.4411"
-     inkscape:cy="486.57186"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="561.97226"
+     inkscape:cy="444.87207"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2431"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -144,7 +144,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3172,14 +3172,17 @@
              inkscape:connector-curvature="0" />
         </g>
         <text
-           transform="matrix(0,1,1,0,100635,74494)"
-           style="font-variant:normal;font-weight:normal;font-size:2601.04589844px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text2587">
+           transform="matrix(0,0.95753352,1.0443499,0,0,0)"
+           style="font-variant:normal;font-weight:normal;font-size:2490.58862305px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95753354"
+           id="text2587"
+           x="77800.664"
+           y="96361.383">
           <tspan
-             x="0 1300.5229 2746.7046 3612.8528 4335.9438 4913.376 6213.8989 7660.0806 8237.5127 9683.6943 11129.876 12576.058 13442.206 14019.638 15320.161 16766.342 18212.523 18935.615 20381.797 20959.229 22405.41 23705.934 25872.605 27318.787 28764.967 29488.059 30934.24 32380.422 33826.602 34549.695 35272.785 36573.309 38019.488"
-             y="0"
              sodipodi:role="line"
-             id="tspan2585">vertical_horizontal_smooth_offset</tspan>
+             id="tspan2585"
+             style="stroke-width:0.95753354"
+             x="77800.664"
+             y="96361.383">vertical_horizontal_rods_offset</tspan>
         </text>
         <path
            d="m 108493,127054 v -5266"
@@ -3369,14 +3372,16 @@
              inkscape:connector-curvature="0" />
         </g>
         <text
-           transform="matrix(1,0,0,-1,128408,36785)"
+           transform="scale(1,-1)"
            style="font-variant:normal;font-weight:normal;font-size:2601.04589844px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text2669">
+           id="text2669"
+           x="130418.18"
+           y="-36785">
           <tspan
-             x="0 1300.5229 2746.7046 3612.8528 4335.9438 4913.376 6213.8989 7660.0806 8237.5127 9683.6943 10549.843 11996.024 13442.206 14888.388 16334.569 16912.002 18212.523 18935.615 20381.797 21827.979 23128.502"
-             y="0"
+             x="130418.18"
+             y="-36785"
              sodipodi:role="line"
-             id="tspan2667">vertical_rod_distance</tspan>
+             id="tspan2667">vertical_rods_offset</tspan>
         </text>
         <path
            d="M 66545,69685 H 85623"

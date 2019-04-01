@@ -14,8 +14,11 @@
    viewBox="0 0 382.48141 271.37088"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="base_drawing.svg">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="base_drawing.svg"
+   inkscape:export-filename="C:\Users\marek\Documents\3DLab\b182\B182HW-Assignmet\drawings\base_drawing.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <clipPath
@@ -122,15 +125,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="101.16415"
-     inkscape:cy="736.26033"
+     inkscape:zoom="0.7"
+     inkscape:cx="624.09515"
+     inkscape:cy="506.18707"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2431"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -4334,7 +4337,7 @@
                id="tspan2585"
                sodipodi:role="line"
                y="0"
-               x="0 1300.5229 2746.7046 3612.8528 4335.9438 4913.376 6213.8989 7660.0806 8237.5127 9683.6943 11129.876 12576.058 13442.206 14019.638 15320.161 16766.342 18212.523 18935.615 20381.797 20959.229 22405.41 23705.934 25872.605 27318.787 28764.967 29488.059 30934.24 32380.422 33826.602 34549.695 35272.785 36573.309 38019.488">vertical_horizontal_smooth_offset</tspan>
+               x="0 1300.5229 2746.7046 3612.8528 4335.9438 4913.376 6213.8989 7660.0806 8237.5127 9683.6943 11129.876 12576.058 13442.206 14019.638 15320.161 16766.342 18212.523 18935.615 20381.797">vertical_horizontal_rods_offset</tspan>
           </text>
           <path
              inkscape:connector-curvature="0"
@@ -4531,7 +4534,7 @@
                id="tspan2667"
                sodipodi:role="line"
                y="0"
-               x="0 1300.5229 2746.7046 3612.8528 4335.9438 4913.376 6213.8989 7660.0806 8237.5127 9683.6943 10549.843 11996.024 13442.206 14888.388 16334.569 16912.002 18212.523 18935.615 20381.797 21827.979 23128.502">vertical_rod_distance</tspan>
+               x="0 1300.5229 2746.7046 3612.8528 4335.9438 4913.376 6213.8989 7660.0806 8237.5127 9683.6943 10549.843">vertical_rods_distance</tspan>
           </text>
           <path
              inkscape:connector-curvature="0"
