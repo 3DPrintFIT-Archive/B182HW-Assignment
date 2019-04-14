@@ -86,9 +86,9 @@ Váš modul musí jít použít následujícím způsobem z jiného souboru ve v
 kořenovém adresáři vašeho repozitáře:
 
 ```scad
-use <x-ends.scad>
+use <x_ends.scad>
 
-x-ends();
+x_ends();
 ```
 
 Výchozí hodnoty argumentů musí **zůstat zachovány** dle tohoto rozhraní!
