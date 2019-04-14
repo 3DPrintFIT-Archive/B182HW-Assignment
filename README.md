@@ -10,7 +10,7 @@ popsané níže, jejich rozhraní a konkrétní vlastnosti se však ještě moho
 Uvítáme, pokud se na případné nejasnosti zeptáte pomocí
 [issue] v tomto repozitáři.
 
-Založte repozitář: **TBD** (bude doplněno s beta verzí)
+Založte repozitář: https://classroom.github.com/a/XAhF3pvj
 
 Deadline odevzdání je **TBD** (měsíc od vydání rc verze zadání)
 
