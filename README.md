@@ -4,10 +4,9 @@ Vaším úkolem bude namodelovat mírně zjednodušené koncové součástky na 
 
 ## Odevzdání a termíny
 
-:warning: Toto je alpha verze zadání domácího úkolu.
-To znamená, je momentálně jasné, že předmětem tohoto úkolu budou součástky
-popsané níže, jejich rozhraní a konkrétní vlastnosti se však ještě mohou měnit.
-Uvítáme, pokud se na případné nejasnosti zeptáte pomocí
+:warning: Toto je beta verze zadání domácího úkolu.
+To znamená, že se budou pouze upřesňovat detaily (nejasnosti) a opravovat chyby v zadání.
+Uvítáme, pokud se na případné problémy zeptáte pomocí
 [issue] v tomto repozitáři.
 
 Založte repozitář: https://classroom.github.com/a/XAhF3pvj
@@ -25,7 +24,8 @@ Pokud máte jakékoliv dotazy, či naleznete chyby, napište je prosím do
 [issue]: https://github.com/3DprintFIT/B182HW-Assignmet/issues
 
 Po pushnutí commitu do vašeho repozitáře proběhne sada testů.
-Testy vyžadují optickou kontrolu. Alpha verze zadání ještě neobsahuje testy.
+Testy vyžadují optickou kontrolu. Beta verze zadání obsahuje 12 testů.
+Další testy budou postupně přibývat až do rc verze.
 Automatické testy se vyhodnocující na základě přesné optické schody.
 Pozice modelu je proto zásadní.
 Každý test je buďto splněn nebo nesplněn, v případě pochyb si obrázky překryjte přes sebe.
