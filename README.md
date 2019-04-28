@@ -128,7 +128,7 @@ Dále máte k dispozici obrázky projekcí této základní součástky ([svg](d
 ## Idler (část _idler_)
 ![idler](drawings/idler_projections.svg)
 
-Výkresy `idleru` najdete na [svg](drawings/idler_drawing.svg) a [png](drawings/idler_drawing.svg.png). Případně jsou zase dostupné pouze okótované výkresy ([svg](drawings/idler_dimensions.svg), [png](drawings/idler_dimension.svg.png)) a také pouze projekce ([svg](drawings/idler_projections.svg), [png](drawings/idler_projections.svg.png)).
+Výkresy `idleru` najdete na [svg](drawings/idler_drawing.svg) a [png](drawings/idler_drawing.svg.png). Případně jsou zase dostupné pouze okótované výkresy ([svg](drawings/idler_dimensions.svg), [png](drawings/idler_dimensions.svg.png)) a také pouze projekce ([svg](drawings/idler_projections.svg), [png](drawings/idler_projections.svg.png)).
 
 ## Motor (část _motor_)
 ![motor](drawings/motor_projections.svg)
