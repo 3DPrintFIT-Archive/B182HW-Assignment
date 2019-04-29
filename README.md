@@ -7,14 +7,14 @@ Vaším úkolem bude namodelovat mírně zjednodušené koncové součástky na 
 
 ## Odevzdání a termíny
 
-:warning: Toto je beta verze zadání domácího úkolu.
-To znamená, že se budou pouze upřesňovat detaily (nejasnosti) a opravovat chyby v zadání.
+:warning: Toto je rc verze zadání domácího úkolu.
+To znamená, že potenciální opravy chyb budou opatřeny erratou.
 Uvítáme, pokud se na případné problémy zeptáte pomocí
 [issue] v tomto repozitáři.
 
 Založte repozitář: https://classroom.github.com/a/XAhF3pvj
 
-Deadline odevzdání je **TBD** (měsíc od vydání rc verze zadání)
+Deadline odevzdání je **29.5.2019** 23:59 CEST
 
 Vypracovaný úkol nahrajte do repozitáře vytvořeného na odkaze výše.
 Nikam jinam jej neposílejte, jako odevzdání se počítá to,
@@ -27,8 +27,7 @@ Pokud máte jakékoliv dotazy, či naleznete chyby, napište je prosím do
 [issue]: https://github.com/3DprintFIT/B182HW-Assignmet/issues
 
 Po pushnutí commitu do vašeho repozitáře proběhne sada testů.
-Testy vyžadují optickou kontrolu. Beta verze zadání obsahuje 12 testů.
-Další testy budou postupně přibývat až do rc verze.
+Testy vyžadují optickou kontrolu. Je k dispozici 12 testů.
 Automatické testy se vyhodnocující na základě přesné optické schody.
 Pozice modelu je proto zásadní.
 Každý test je buďto splněn nebo nesplněn, v případě pochyb si obrázky překryjte přes sebe.
