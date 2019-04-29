@@ -1,6 +1,9 @@
 # X-ends
 
-Vaším úkolem bude namodelovat mírně zjednodušené koncové součástky na X osu tiskáren podobného stylu jako jsou tiskárny RebeliX, se kterými se setkáte v předmětu.
+Vaším úkolem bude namodelovat mírně zjednodušené koncové součástky na X osu tiskáren podobného stylu jako jsou tiskárny RebeliX, se kterými se setkáte v předmětu. Tisknou se vzhůru nohama.
+
+![photo](drawings/motor.jpg)
+![photo](drawings/idler.jpg)
 
 ## Odevzdání a termíny
 
