@@ -118,6 +118,8 @@ Věnujte proto umístění modelu zvýšenou pozornost, požadovanou pozici najd
 
 # Výkresy
 
+Poznámka: Kóty *a* a *b* označují pouze rovnost stejně okótovaných částí.
+
 ## Báze
 ![base](drawings/base_projections.svg)
 
