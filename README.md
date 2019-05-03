@@ -137,7 +137,7 @@ Výkresy `idleru` najdete na [svg](drawings/idler_drawing.svg) a [png](drawings/
 ## Motor (část _motor_)
 ![motor](drawings/motor_projections.svg)
 
-Výkresy `motoru` najdete na [svg](drawings/motor_drawing.svg) a [png](drawings/motor_drawing.svg.png). Případně jsou zase dostupné pouze okótované výkresy ([svg](drawings/motor_dimensions.svg), [png](drawings/motor_dimension.svg.png)) a také pouze projekce ([svg](drawings/motor_projections.svg), [png](drawings/motor_projections.svg.png)).
+Výkresy `motoru` najdete na [svg](drawings/motor_drawing.svg) a [png](drawings/motor_drawing.svg.png). Případně jsou zase dostupné pouze okótované výkresy ([svg](drawings/motor_dimensions.svg), [png](drawings/motor_dimensions.svg.png)) a také pouze projekce ([svg](drawings/motor_projections.svg), [png](drawings/motor_projections.svg.png)).
 
 
 ## Obě části
