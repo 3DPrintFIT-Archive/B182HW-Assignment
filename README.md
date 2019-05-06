@@ -42,6 +42,12 @@ Dá se vykládat asi takto:
 Pozor, že i prázdný obrázek dává vysoké hodnoty shody.
 Není tedy možné předpokládat, že tato číslice snad udává podíl získaných bodů.
 
+## Changelog od rc verze
+
+ * 6.5. - dokreslení chybějící kóty `endstop_distance_from_bottom_rod`
+ * 6.5. - oprava výpočtu výšky držáku na endstop, oprava testu 9
+ * 6.5. - oprava výpočtu pozice díry na řemen
+
 ## Rozhraní
 
 Váš model implementujte jako modul v OpenSCADu s tímto rozhraním:
